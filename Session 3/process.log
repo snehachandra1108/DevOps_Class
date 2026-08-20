@@ -1,0 +1,4 @@
+Process is       PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      904       1     904      22864  cons0     197610 09:40:51 /usr/bin/bash
+     1041     904    1041      32388  cons0     197610 09:52:30 /usr/bin/sh
+     1048    1041    1041      13892  cons0     197610 09:52:31 /usr/bin/ps
