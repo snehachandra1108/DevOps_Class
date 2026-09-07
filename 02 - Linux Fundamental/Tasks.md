@@ -102,3 +102,40 @@ Switching to testuser :
 
 <img width="747" height="220" alt="image" src="https://github.com/user-attachments/assets/7e1c0b3b-d784-4790-bca1-e4a8b02b9f0b" />
 
+## Task 3: journalctl
+- Learn what journalctl is used for.
+- Learn how to view system and service logs using journalctl.
+- Practice checking logs for a specific service.
+
+##
+
+### What is journalctl?
+
+**journalctl** is a linux command used to view and examine system and service logs.
+
+Logs provide information about events happening on the system, such as:
+- Services starting or stopping
+- System startup and shutdown
+- Errors and warnings
+- Other system activities
+
+### Viewing logs
+
+To view system logs:
+```bash
+journalctl
+```
+To view ssh service logs:
+```bash
+journalctl -u ssh
+```
+
+### Screenshots :
+
+System logs :
+
+<img width="1838" height="511" alt="image" src="https://github.com/user-attachments/assets/ccc990ca-cea4-40da-b375-580d190f6366" />
+
+Service logs :
+
+<img width="590" height="51" alt="image" src="https://github.com/user-attachments/assets/fba1bd77-3179-45ea-bc97-a66b0ca87cf8" />
