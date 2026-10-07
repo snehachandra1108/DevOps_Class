@@ -139,3 +139,17 @@ System logs :
 Service logs :
 
 <img width="590" height="51" alt="image" src="https://github.com/user-attachments/assets/fba1bd77-3179-45ea-bc97-a66b0ca87cf8" />
+
+## Task 4:Linux Command Cheat Sheet
+- Review the Linux command cheat sheet.
+- Practice the important commands covered in the cheat sheet.
+- Understand the purpose and basic usage of each command.
+
+##
+
+### Screenshots :
+<img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/0be51693-5dcd-47d7-91d1-bc7d6df3f454" />
+
+<img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/2ae1c452-9b21-4e5c-9f58-49ed9b2b31e1" />
+
+
