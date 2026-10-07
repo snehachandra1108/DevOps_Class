@@ -155,3 +155,5 @@ Service logs :
 
 <img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/d75ab7b9-3c48-4fe5-86e5-3e17d26cd4f5" />
 <img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/6eb11750-702f-4c90-9665-47cd5ef97e5c" />
+<img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/6e07e8ef-76c1-4b39-ae3c-e5a1980840b1" />
+<img width="1796" height="1093" alt="image" src="https://github.com/user-attachments/assets/5988e234-d1ab-4f28-aec9-a47b02ebc438" />
